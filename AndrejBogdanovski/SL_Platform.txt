@@ -1,0 +1,5 @@
+Notes for SL Platform:
+
+1. On every snap move the delete snap icon to the left of the question mark not next to the save button
+2. Data validator snap doesnt work when i have give a constraint of (Required-> True) for some field. Even if the field does not exist on input it passes it on
+3. In the NetSuite Search snap can we create the criteria in the snap?
