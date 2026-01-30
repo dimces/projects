@@ -1,0 +1,3 @@
+Create pipeline that read the Leads where Status is Working - Contacted.
+Map the fields First Name, Last Name, Email, Name and Phone.
+Sort them by name in ascending order
