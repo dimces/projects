@@ -1,2 +1,0 @@
-Create pipeline that extracts the records created in the last 10 minutes, writes the records in a file , in a way they don't get overwritten, and then deletes them from Salesforce
-Create scheduled task that  runs in the next hour on every 10 minutes
