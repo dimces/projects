@@ -1,0 +1,2 @@
+This is an error pipeline that will route different errors and send corresponding error messages according to those errors types. 
+It has an retry mechanism built where it's configurable how many retries it should do before stops trying.
